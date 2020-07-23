@@ -1,5 +1,5 @@
 # Weather
-Criando uma tela climática com vanilha JavaScript.
+Creating a weather screen with JavaScript.
 
 - Icone: https://darkskyapp.github.io/skycons/
 - DarkApi: https://darksky.net
